@@ -1,6 +1,6 @@
 //  修改文章路由 替换网址路径 例如将 http://127.0.0.1:8081/#/home/list ==》  http://127.0.0.1:8081/#/editor
 // 文章列表配置 
-
+// https://zzj634870514.github.io/#/editor
 
 window.g = {
     dataList: [
