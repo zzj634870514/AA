@@ -15,6 +15,14 @@ window.g = {
             "fileDM": 154,
             "intro": "undefined"
         },
+        // 文章数据加在这
+        {
+          "articleDM": 1713172707003,
+          "content": "fsdfsdfsdf",
+          "createAt": "",
+          "title": "asfdsadf",
+          "intro": "sdfsdfsd"
+        }
         
     ],
     // 个人信息配置 
