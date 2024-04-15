@@ -53,11 +53,11 @@ window.g = {
             fields: [
                 {
                     label: 'qq',
-                    value: '2683726933'
+                    value: '634870514'
                 },
                 {
                     label: '邮箱',
-                    value: '2683726933@qq.com'
+                    value: '634870514@qq.com'
                 },
             ]
         },
