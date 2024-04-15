@@ -44,7 +44,7 @@ window.g = {
                 },
                 {
                     label: 'github地址',
-                    value: 'https://github.com/xiangCaiOne'
+                    value: 'https://github.com/zzj634870514'
                 },
             ]
         },
@@ -73,5 +73,5 @@ window.g = {
         }
     ],
     // 导航栏 github 链接配置
-    githubLink: 'https://github.com/xiangCaiOne'
+    githubLink: 'https://github.com/zzj634870514'
 }
